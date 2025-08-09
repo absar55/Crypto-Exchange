@@ -50,20 +50,20 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyBoDRosDEZLTiwupusGTcyg9sBXJKqy3cg',
-    appId: '1:168836943023:android:661696221b23dc0522985a',
-    messagingSenderId: '168836943023',
-    projectId: 'crypto-exchange-1603',
-    storageBucket: 'crypto-exchange-1603.appspot.com',
+    apiKey: 'xyz',
+    appId: 'xyz',
+    messagingSenderId: 'xyz',
+    projectId: 'xyz',
+    storageBucket: 'xyz',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyAK-xQSvzenYm8jq5uBDLN2G0BX_xNFW3E',
-    appId: '1:168836943023:ios:d69c0b2d7bd9979622985a',
-    messagingSenderId: '168836943023',
-    projectId: 'crypto-exchange-1603',
-    storageBucket: 'crypto-exchange-1603.appspot.com',
-    iosClientId: '168836943023-s8vg20bikh9s20asj6eib9v45g0poeg8.apps.googleusercontent.com',
-    iosBundleId: 'com.example.cryptoExchange',
+    apiKey: 'xyz',
+    appId: 'xyz',
+    messagingSenderId: 'xyz',
+    projectId: 'xyz',
+    storageBucket: 'xyz',
+    iosClientId: 'xyz',
+    iosBundleId: 'xyz',
   );
 }
